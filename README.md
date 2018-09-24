@@ -1,0 +1,2 @@
+# softSVM
+SoftSVM implementation
